@@ -7,4 +7,5 @@ This program reads data from data/*.csv files.
 
 import sys
 
+print 'There are', len(sys.argv), 'arguments'
 print sys.argv
